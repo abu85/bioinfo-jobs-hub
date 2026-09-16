@@ -13,6 +13,20 @@ scraper/run.py  →  data/jobs.json + data/last_updated.json  →  index.html re
 
 No backend: the site is plain HTML/CSS/JS, and the only "dynamic" part is a JSON file that a scheduled GitHub Actions job overwrites and commits every night. GitHub Pages redeploys automatically on every push to `main`.
 
+## Training materials
+
+`training.html` is now auto-updated too, the same way the jobs board is:
+
+```
+scraper/run_training.py  →  data/training.json + data/training_last_updated.json  →  training.html reads them client-side
+```
+
+Source: [Glittr.org](https://glittr.org/api/list), a structured, actively maintained API of ~840 bioinformatics/data-science training repositories organised as category → topic → repository. It's also literally what generates the [SIB Training Collection](https://github.com/sib-swiss/training-collection)'s own README (see their `scripts/create_collection_from_rest_api.py`), so scraping it directly goes to the source rather than re-deriving from a page that itself re-derives from it.
+
+To keep the page from being an 800-item wall, `scraper/training_sources/glittr.py` keeps only the top `MAX_PER_TOPIC` (8) repos per topic by GitHub star count, with a `MIN_STARS` (5) floor — both easy to tune in that file.
+
+Run it the same way as the jobs scraper: `python scraper/run_training.py` from the repo root (after `pip install -r scraper/requirements.txt`). It's wired into the same nightly GitHub Actions workflow as a second step.
+
 ## Job sources
 
 | Source | Method | Notes |
@@ -52,7 +66,5 @@ Nightly at 23:00 UTC (00:00 CET). GitHub Actions cron is UTC-only and doesn't ob
 ## Pages
 
 - `index.html` — the auto-updated jobs board.
-- `training.html` — curated training-material links (hand-maintained; see [ELIXIR TeSS](https://tess.elixir-europe.org/) for a full searchable catalogue this deliberately doesn't try to replace).
-- `infrastructure.html` — curated, representative (not exhaustive) directory of bioinformatics infrastructure worldwide: international bodies, national infrastructures, university core facilities.
-
-Both curated pages are meant to grow — edit the HTML directly and add a `.res-card` block in the relevant category.
+- `training.html` — the auto-updated training-materials list (see "Training materials" above; source is Glittr.org, not hand-maintained).
+- `infrastructure.html` — curated, representative (not exhaustive) directory of bioinformatics infrastructure worldwide: international bodies, national infrastructures, university core facilities. Still hand-maintained — edit the HTML directly and add a `.res-card` block in the relevant category.
