@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bioinfo Jobs Hub — Worldwide Bioinformatics Jobs</title>
+<meta name="description" content="Auto-updated, worldwide bioinformatics job board, plus training materials and infrastructure directories.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <h1 class="brand"><a href="index.html">Bioinfo Jobs Hub</a></h1>
+    <p class="tagline">Worldwide bioinformatics jobs · training · infrastructure</p>
+    <nav class="tabs">
+      <a href="index.html" class="active">Jobs</a>
+      <a href="training.html">Training Materials</a>
+      <a href="infrastructure.html">Infrastructure Directory</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <h1 class="page-title">Bioinformatics Jobs</h1>
+    <p class="page-sub">Aggregated automatically every night from open, scrape-friendly sources — academic, infrastructure, and industry postings from around the world. Not a substitute for LinkedIn/Indeed searches (see below), but a fast daily scan.</p>
+
+    <div class="status-bar" id="status-bar">
+      <span>Loading status…</span>
+    </div>
+
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search title, organisation, keyword…">
+      <select id="filter-source"><option value="">All sources</option></select>
+      <select id="filter-recency">
+        <option value="">Any time</option>
+        <option value="7">Last 7 days</option>
+        <option value="14">Last 14 days</option>
+        <option value="30">Last 30 days</option>
+      </select>
+    </div>
+
+    <div class="job-list" id="job-list">
+      <p class="empty-state">Loading jobs…</p>
+    </div>
+
+    <section class="elsewhere">
+      <h2>Search elsewhere</h2>
+      <p>LinkedIn and Indeed actively block automated scraping, so they aren't aggregated above — but here are pre-built searches:</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/jobs/search/?keywords=bioinformatics" target="_blank" rel="noopener">LinkedIn — bioinformatics jobs</a></li>
+        <li><a href="https://www.indeed.com/jobs?q=bioinformatics" target="_blank" rel="noopener">Indeed — bioinformatics jobs (worldwide)</a></li>
+        <li><a href="https://www.glassdoor.com/Job/bioinformatics-jobs-SRCH_KO0,14.htm" target="_blank" rel="noopener">Glassdoor — bioinformatics jobs</a></li>
+      </ul>
+    </section>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Bioinfo Jobs Hub</span>
+    <span id="footer-updated">Data last updated: —</span>
+  </div>
+</footer>
+
+<script src="assets/site.js"></script>
+</body>
+</html>

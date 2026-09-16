@@ -1,0 +1,38 @@
+name: Update jobs feed
+
+on:
+  schedule:
+    # 23:00 UTC = 00:00 CET (winter). GitHub Actions cron is always UTC and
+    # doesn't follow daylight saving, so this drifts to 01:00 CEST in
+    # summer -- "close to midnight Stockholm time" year-round, not exact
+    # to the minute in both seasons. See README for the precise-timezone
+    # upgrade path if that ever matters.
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}  # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: python scraper/run.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "bioinfo-jobs-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/jobs.json data/last_updated.json
+          git diff --cached --quiet || git commit -m "Nightly jobs feed update"
+          git push
