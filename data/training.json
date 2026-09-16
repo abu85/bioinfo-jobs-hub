@@ -1,1 +1,2402 @@
-[]
+[
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Cloud computing",
+    "title": "GCP for Bioinformatics Researchers",
+    "url": "https://www.youtube.com/playlist?list=PL4Q4HssKcxYvcixWS08UFaYIH7y4IAV0z",
+    "repo_url": "https://github.com/lynnlangit/gcp-for-bioinformatics",
+    "author": "Lynn Langit",
+    "stars": 296,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Cloud computing",
+    "title": "aws-samples/aws-hpc-tutorials",
+    "url": "https://hpcworkshops.com",
+    "repo_url": "https://github.com/aws-samples/aws-hpc-tutorials",
+    "author": "AWS Samples",
+    "stars": 85,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Cloud computing",
+    "title": "Introduction to Cloud Computing for Genomics",
+    "url": "https://datacarpentry.org/cloud-genomics/",
+    "repo_url": "https://github.com/datacarpentry/cloud-genomics",
+    "author": "Data Carpentry",
+    "stars": 21,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Cloud computing",
+    "title": "Material for the ELIXIR EXCELERATE workshop \"Using clouds and VMs in bioinformatics training\"",
+    "url": "https://github.com/ekorpela/cloud-vm-workshop",
+    "repo_url": "https://github.com/ekorpela/cloud-vm-workshop",
+    "author": "Eija Korpelainen",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Containerization",
+    "title": "(WIP) Getting started with Docker - An introduction to Docker with data science and engineering applications",
+    "url": "https://github.com/RamiKrispin/Introduction-to-Docker",
+    "repo_url": "https://github.com/RamiKrispin/Introduction-to-Docker",
+    "author": "Rami Krispin",
+    "stars": 129,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Containerization",
+    "title": "Reproducible Computational Environments using Containers",
+    "url": "https://carpentries-incubator.github.io/docker-introduction/",
+    "repo_url": "https://github.com/carpentries-incubator/docker-introduction",
+    "author": "The Carpentries Incubator",
+    "stars": 53,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Containerization",
+    "title": "Course website \"Docker and Singularity for reproducible research: getting started with containers\"",
+    "url": "https://sib-swiss.github.io/containers-introduction-training/",
+    "repo_url": "https://github.com/sib-swiss/containers-introduction-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 35,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Containerization",
+    "title": "An introduction to singularity",
+    "url": "https://carpentries-incubator.github.io/singularity-introduction",
+    "repo_url": "https://github.com/carpentries-incubator/singularity-introduction",
+    "author": "The Carpentries Incubator",
+    "stars": 13,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Galaxy",
+    "title": "A collection of Galaxy-related training material",
+    "url": "https://training.galaxyproject.org",
+    "repo_url": "https://github.com/galaxyproject/training-material",
+    "author": "Galaxy Project",
+    "stars": 367,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "High performance computing",
+    "title": "Using High-Performance Computing Systems",
+    "url": "https://carpentries-incubator.github.io/hpc-intro/",
+    "repo_url": "https://github.com/carpentries-incubator/hpc-intro",
+    "author": "The Carpentries Incubator",
+    "stars": 159,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "High performance computing",
+    "title": "GPU Programming with Python and CUDA.",
+    "url": "https://carpentries-incubator.github.io/lesson-gpu-programming/",
+    "repo_url": "https://github.com/carpentries-incubator/lesson-gpu-programming",
+    "author": "The Carpentries Incubator",
+    "stars": 27,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "High performance computing",
+    "title": "Practical course on running jobs on a HPC",
+    "url": "https://cambiotraining.github.io/hpc-intro/",
+    "repo_url": "https://github.com/cambiotraining/hpc-intro",
+    "author": "cambiotraining",
+    "stars": 21,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "High performance computing",
+    "title": "Applied HPC with R",
+    "url": "https://book-hpc.ggvy.cl",
+    "repo_url": "https://github.com/gvegayon/appliedhpcr",
+    "author": "George G. Vega Yon",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "High performance computing",
+    "title": "Remote computing workshops in August 2021",
+    "url": "https://ngs-docs.github.io/2021-august-remote-computing",
+    "repo_url": "https://github.com/ngs-docs/2021-august-remote-computing",
+    "author": "ngs-docs",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "This repository contains the files that generate Andy's Brain Book on ReadTheDocs.",
+    "url": "https://github.com/andrewjahn/AndysBrainBook",
+    "repo_url": "https://github.com/andrewjahn/AndysBrainBook",
+    "author": "Andrew Jahn",
+    "stars": 206,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "Image Processing with Python",
+    "url": "https://datacarpentry.org/image-processing",
+    "repo_url": "https://github.com/datacarpentry/image-processing",
+    "author": "Data Carpentry",
+    "stars": 113,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "Resources for teaching/preparing to teach bioimage analysis",
+    "url": "https://neubias.github.io/training-resources",
+    "repo_url": "https://github.com/NEUBIAS/training-resources",
+    "author": "NEUBIAS",
+    "stars": 64,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "fMRI Imaging Analysis",
+    "url": "https://carpentries-incubator.github.io/SDC-BIDS-fMRI/",
+    "repo_url": "https://github.com/carpentries-incubator/SDC-BIDS-fMRI",
+    "author": "The Carpentries Incubator",
+    "stars": 49,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "Structural Neuroimaging Analysis in Python",
+    "url": "https://carpentries-incubator.github.io/SDC-BIDS-sMRI/",
+    "repo_url": "https://github.com/carpentries-incubator/SDC-BIDS-sMRI",
+    "author": "The Carpentries Incubator",
+    "stars": 36,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "Introduction to MRI and BIDS",
+    "url": "https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI",
+    "repo_url": "https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI",
+    "author": "The Carpentries Incubator",
+    "stars": 27,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Image analysis",
+    "title": "Introduction to dMRI",
+    "url": "https://carpentries-incubator.github.io/SDC-BIDS-dMRI/",
+    "repo_url": "https://github.com/carpentries-incubator/SDC-BIDS-dMRI",
+    "author": "The Carpentries Incubator",
+    "stars": 27,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Nextflow training material ",
+    "url": "https://training.nextflow.io",
+    "repo_url": "https://github.com/seqeralabs/nf-training-public",
+    "author": "Seqera",
+    "stars": 270,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Workflow management with Nextflow and nf-core",
+    "url": "https://carpentries-incubator.github.io/workflows-nextflow/",
+    "repo_url": "https://github.com/carpentries-incubator/workflows-nextflow",
+    "author": "The Carpentries Incubator",
+    "stars": 33,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Introduction to Snakemake for Bioinformatics",
+    "url": "https://carpentries-incubator.github.io/snakemake-novice-bioinformatics",
+    "repo_url": "https://github.com/carpentries-incubator/snakemake-novice-bioinformatics",
+    "author": "The Carpentries Incubator",
+    "stars": 22,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Nextflow workshop materials November 2025",
+    "url": "https://liascript.github.io/course/#1",
+    "repo_url": "https://github.com/vib-training-conferences/nextflow-workshop",
+    "author": "VIB Training & Conferences",
+    "stars": 19,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Course website \"Introduction to Containers and Snakemake for Reproducible Research\"",
+    "url": "https://sib-swiss.github.io/containers-snakemake-training/",
+    "repo_url": "https://github.com/sib-swiss/containers-snakemake-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 13,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Introduction to Workflows with Common Workflow Language",
+    "url": "https://carpentries-incubator.github.io/cwl-novice-tutorial/",
+    "repo_url": "https://github.com/carpentries-incubator/cwl-novice-tutorial",
+    "author": "The Carpentries Incubator",
+    "stars": 11,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "One-day Snakemake workshop.                  ",
+    "url": "https://carpentries-incubator.github.io/workflows-snakemake/",
+    "repo_url": "https://github.com/carpentries-incubator/workflows-snakemake",
+    "author": "The Carpentries Incubator",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Computational methods and pipelines",
+    "topic": "Workflows",
+    "title": "Slow-paced containers and Nextflow course for beginners. ",
+    "url": "https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2022/",
+    "repo_url": "https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2022",
+    "author": "Biocore@CRG",
+    "stars": 7,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "ChIP-seq",
+    "title": "Intro to ChIPseq using HPC",
+    "url": "https://hbctraining.github.io/Intro-to-ChIPseq/",
+    "repo_url": "https://github.com/hbctraining/Intro-to-ChIPseq",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 324,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "ChIP-seq",
+    "title": "hbctraining/Investigating-chromatin-biology-ChIPseq",
+    "url": "https://hbctraining.github.io/Investigating-chromatin-biology-ChIPseq/",
+    "repo_url": "https://github.com/hbctraining/Intro-to-ChIPseq-flipped",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 101,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "ChIP-seq",
+    "title": "An introduction to various methods/approaches for the analysis of peaks generated from ChIP-seq / CUT&RUN / ATAC-seq",
+    "url": "https://hbctraining.github.io/Intro-to-peak-analysis/",
+    "repo_url": "https://github.com/hbctraining/Peak_analysis_workshop",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 42,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "ChIP-seq",
+    "title": "EuroBioc 2020 Workshop: ChIP and ATAC analysis with DiffBind",
+    "url": "https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop",
+    "repo_url": "https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop",
+    "author": "CRUK CI Bioinformatics Core",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "ChIP-seq",
+    "title": "hukai916/IntegratedChIPseqWorkshop",
+    "url": "https://github.com/hukai916/IntegratedChIPseqWorkshop",
+    "repo_url": "https://github.com/hukai916/IntegratedChIPseqWorkshop",
+    "author": "Kai Hu",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Comparative genomics",
+    "title": "CPANG19 - Computational PANGenomics (2019)",
+    "url": "https://gtpb.github.io/CPANG19/",
+    "repo_url": "https://github.com/gtpb/CPANG19",
+    "author": "The Gulbenkian Training Programme in Bioinformatics",
+    "stars": 12,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epidemiology",
+    "title": "alliblk/genepi-book",
+    "url": "https://alliblk.github.io/genepi-book/",
+    "repo_url": "https://github.com/alliblk/genepi-book",
+    "author": "Alli Black",
+    "stars": 25,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epidemiology",
+    "title": "cmirzayi/EpiForBioWorkshop2020",
+    "url": "https://cmirzayi.github.io/EpiForBioWorkshop2020/",
+    "repo_url": "https://github.com/cmirzayi/EpiForBioWorkshop2020",
+    "author": "Chloe Mirzayi",
+    "stars": 7,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epidemiology",
+    "title": "bioinformatics-ca/IDE_2021",
+    "url": "https://github.com/bioinformatics-ca/IDE_2021",
+    "repo_url": "https://github.com/bioinformatics-ca/IDE_2021",
+    "author": "Canadian Bioinformatics Workshops",
+    "stars": 6,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epigenetics",
+    "title": "workshop website on readthedocs ",
+    "url": "https://nbis-workshop-epigenomics.readthedocs.io/en/latest/",
+    "repo_url": "https://github.com/NBISweden/workshop-epigenomics-RTDs",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 24,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epigenetics",
+    "title": "ATACseqQC tutorials for BioC 2019 workshop",
+    "url": "https://github.com/haibol2016/ATACseqQCWorkshop",
+    "repo_url": "https://github.com/haibol2016/ATACseqQCWorkshop",
+    "author": "Haibo Liu",
+    "stars": 19,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Epigenetics",
+    "title": "bioinformaticsdotca/EPI_2023",
+    "url": "https://github.com/bioinformaticsdotca/EPI_2023",
+    "repo_url": "https://github.com/bioinformaticsdotca/EPI_2023",
+    "author": "bioinformatics.ca",
+    "stars": 7,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genome annotation",
+    "title": "This repository contains course materials for a workshop on structural genome annotation with BRAKER and TSEBRA",
+    "url": "https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop",
+    "repo_url": "https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop",
+    "author": "Katharina Hoff",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genome assembly",
+    "title": "nadegeguiglielmoni/EMBO-25-genome-sequencing",
+    "url": "https://github.com/nadegeguiglielmoni/EMBO-25-genome-sequencing",
+    "repo_url": "https://github.com/nadegeguiglielmoni/EMBO-25-genome-sequencing",
+    "author": "Nadège Guiglielmoni",
+    "stars": 13,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genome assembly",
+    "title": "ebp-nor/genome-assembly-workshop-2023",
+    "url": "https://github.com/ebp-nor/genome-assembly-workshop-2023",
+    "repo_url": "https://github.com/ebp-nor/genome-assembly-workshop-2023",
+    "author": "ebp-nor",
+    "stars": 8,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "compgenomr/book",
+    "url": "http://compgenomr.github.io/book",
+    "repo_url": "https://github.com/compgenomr/book",
+    "author": "Computational Genomics with R",
+    "stars": 390,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "A course on genomics and bioinformatics from WashU",
+    "url": "https://github.com/genome/bfx-workshop",
+    "repo_url": "https://github.com/genome/bfx-workshop",
+    "author": "The McDonnell Genome Institute",
+    "stars": 89,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "biodiversity genomics course by Nicol Rueda, Karin Näsvall, Fernando Seixas and Joana Meier from the Wellcome Sanger Institute",
+    "url": "https://github.com/rapidspeciation/biodiversity_genomics_course",
+    "repo_url": "https://github.com/rapidspeciation/biodiversity_genomics_course",
+    "author": "rapidspeciation",
+    "stars": 76,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "Genomics Workshop Overview",
+    "url": "https://datacarpentry.org/genomics-workshop",
+    "repo_url": "https://github.com/datacarpentry/genomics-workshop",
+    "author": "Data Carpentry",
+    "stars": 48,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "Project Organization and Management for Genomics",
+    "url": "https://datacarpentry.org/organization-genomics",
+    "repo_url": "https://github.com/datacarpentry/organization-genomics",
+    "author": "Data Carpentry",
+    "stars": 26,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "practical course about lab methods in genome research",
+    "url": "https://github.com/bpucker/molecularmethodsingenomeresearch",
+    "repo_url": "https://github.com/bpucker/molecularmethodsingenomeresearch",
+    "author": "Boas Pucker",
+    "stars": 23,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "de.NBI Nanopore Training Course",
+    "url": "https://github.com/metagenomics/denbi-nanopore-training",
+    "repo_url": "https://github.com/metagenomics/denbi-nanopore-training",
+    "author": "Computational Metagenomics",
+    "stars": 21,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Genomics",
+    "title": "Based on their genomic data types and goals, this course will help learners find educational resources and tools to help them process and interpret data.",
+    "url": "http://hutchdatascience.org/Choosing_Genomics_Tools/",
+    "repo_url": "https://github.com/fhdsl/Choosing_Genomics_Tools",
+    "author": "Fred Hutch Data Science Lab",
+    "stars": 20,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Immunology",
+    "title": "sib-swiss/immunology-in-bioinformatics-training",
+    "url": "https://github.com/sib-swiss/immunology-in-bioinformatics-training",
+    "repo_url": "https://github.com/sib-swiss/immunology-in-bioinformatics-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Long read sequencing",
+    "title": "rrwick/Perfect-bacterial-genome-tutorial",
+    "url": "https://github.com/rrwick/Perfect-bacterial-genome-tutorial",
+    "repo_url": "https://github.com/rrwick/Perfect-bacterial-genome-tutorial",
+    "author": "Ryan Wick",
+    "stars": 160,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Long read sequencing",
+    "title": "Workflows and tutorials for LongRead analysis with specific focus on Oxford Nanopore data",
+    "url": "https://github.com/timkahlke/LongRead_tutorials/",
+    "repo_url": "https://github.com/timkahlke/LongRead_tutorials/",
+    "author": "Tim Kahlke",
+    "stars": 143,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Long read sequencing",
+    "title": "sib-swiss/NGS-longreads-training",
+    "url": "https://sib-swiss.github.io/NGS-longreads-training/",
+    "repo_url": "https://github.com/sib-swiss/NGS-longreads-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 14,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metabolomics",
+    "title": "Programming In the Life Sciences",
+    "url": "https://github.com/BiGCAT-UM/pils",
+    "repo_url": "https://github.com/BiGCAT-UM/pils",
+    "author": "BiGCaT, Department of Translational Genomics",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metagenomics",
+    "title": "Orchestrating Microbiome Analysis",
+    "url": "https://microbiome.github.io/OMA",
+    "repo_url": "https://github.com/microbiome/OMA/",
+    "author": "microbiome",
+    "stars": 111,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metagenomics",
+    "title": "Analyses in R and Python Using curatedMetagenomicData",
+    "url": "https://waldronlab.io/curatedMetagenomicDataAnalyses/",
+    "repo_url": "https://github.com/waldronlab/curatedMetagenomicDataAnalyses",
+    "author": "Waldron Lab at the CUNY SPH",
+    "stars": 40,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metagenomics",
+    "title": "Data Processing and Visualization for Metagenomics",
+    "url": "https://carpentries-lab.github.io/metagenomics-analysis/",
+    "repo_url": "https://github.com/carpentries-lab/metagenomics-analysis",
+    "author": "The Carpentries Lab",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metagenomics",
+    "title": "Metagenomics Workshop Overview",
+    "url": "https://carpentries-lab.github.io/metagenomics-workshop/",
+    "repo_url": "https://github.com/carpentries-lab/metagenomics-workshop",
+    "author": "The Carpentries Lab",
+    "stars": 8,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Metagenomics",
+    "title": "Training material for the workshop Metagenomics data analysis of mixed microbial communities",
+    "url": "https://www.sib.swiss/training/course/20250507_MEMIC",
+    "repo_url": "https://github.com/sib-swiss/metagenomics-data-analysis-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 6,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Multiomics",
+    "title": "sib-swiss/multiomics-data-analysis-and-integration-training",
+    "url": "https://github.com/sib-swiss/multiomics-data-analysis-and-integration-training",
+    "repo_url": "https://github.com/sib-swiss/multiomics-data-analysis-and-integration-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 37,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Multiomics",
+    "title": "Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment",
+    "url": "https://waldronlab.io/MultiAssayWorkshop/",
+    "repo_url": "https://github.com/waldronlab/MultiAssayWorkshop",
+    "author": "Waldron Lab at the CUNY SPH",
+    "stars": 25,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Multiomics",
+    "title": "Biology-informed Multiomics Data Integration and Visualization",
+    "url": "https://sib-swiss.github.io/biology-informed-multiomics-training/",
+    "repo_url": "https://github.com/sib-swiss/biology-informed-multiomics-training/",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Data Wrangling and Processing for Genomics",
+    "url": "https://datacarpentry.org/wrangling-genomics/",
+    "repo_url": "https://github.com/datacarpentry/wrangling-genomics",
+    "author": "Data Carpentry",
+    "stars": 76,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Website for the precision medicine workshop",
+    "url": "http://pmbio.org",
+    "repo_url": "https://github.com/griffithlab/pmbio.org",
+    "author": "The Griffith Lab",
+    "stars": 49,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Tutorials on accessing public reference and genomic data ",
+    "url": "https://hbctraining.github.io/Accessing_public_genomic_data",
+    "repo_url": "https://github.com/hbctraining/Accessing_public_genomic_data",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 32,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "course about NGS data processing: genomics and transcriptomics",
+    "url": "https://github.com/bpucker/appliedgenomeresearch",
+    "repo_url": "https://github.com/bpucker/appliedgenomeresearch",
+    "author": "Boas Pucker",
+    "stars": 32,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "GitHub for the SIB courses NGS - Genome variant analysis ",
+    "url": "https://sib-swiss.github.io/NGS-variants-training/",
+    "repo_url": "https://github.com/sib-swiss/NGS-variants-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 28,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Web-site for the 2020 CRUK CC Bioinformatics Summer School (Held virtually)",
+    "url": "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/ ",
+    "repo_url": "https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020",
+    "author": "CRUK CI Bioinformatics Core",
+    "stars": 25,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Workshop for CNV analysis with Bioconductor",
+    "url": "https://waldronlab.io/CNVWorkshop",
+    "repo_url": "https://github.com/waldronlab/CNVWorkshop",
+    "author": "Waldron Lab at the CUNY SPH",
+    "stars": 17,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Next generation sequencing",
+    "title": "Workshop • Intro to Bioinformatics using NGS data • 5 days",
+    "url": "https://NBISweden.github.io/workshop-ngsintro",
+    "repo_url": "https://github.com/NBISweden/workshop-ngsintro",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 17,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Population genetics",
+    "title": "Population genetics notes",
+    "url": "https://github.com/cooplab/popgen-notes",
+    "repo_url": "https://github.com/cooplab/popgen-notes",
+    "author": "Coop Lab",
+    "stars": 704,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Protein structure",
+    "title": "Colab Notebooks covering deep learning tools for biomolecular structure prediction and design",
+    "url": "https://github.com/Graylab/DL4Proteins-notebooks",
+    "repo_url": "https://github.com/Graylab/DL4Proteins-notebooks",
+    "author": "Gray Lab",
+    "stars": 724,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Proteomics",
+    "title": "PickyBinders/geometric-learning-protein-structures-course",
+    "url": "https://github.com/PickyBinders/geometric-learning-protein-structures-course",
+    "repo_url": "https://github.com/PickyBinders/geometric-learning-protein-structures-course",
+    "author": "PickyBinders",
+    "stars": 13,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Proteomics",
+    "title": "A resource for biomedical students and researchers. Includes proteomics software tools like FragPipe, MaxQuant, PDV, SearchGUI, ThermoRawFileParser, and PeptideShaker. Offers a user-friendly interface, automated identification and quantification, comprehensive data analysis, and lightweight clone feature for optimized storage.",
+    "url": "https://hds-sandbox.github.io/proteomics-sandbox/index.html",
+    "repo_url": "https://github.com/hds-sandbox/proteomics-sandbox",
+    "author": "Health Data Science Sandbox",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "RNA-seq",
+    "title": "website for the rnaseq course",
+    "url": "http://rnabio.org",
+    "repo_url": "https://github.com/griffithlab/rnabio.org",
+    "author": "The Griffith Lab",
+    "stars": 127,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "RNA-seq",
+    "title": "Short course describing the considerations for a successful RNA-seq experiment",
+    "url": "https://hbctraining.github.io/rnaseq_overview",
+    "repo_url": "https://github.com/hbctraining/rnaseq_overview",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 19,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "RNA-seq",
+    "title": "June 5, 2019",
+    "url": "https://github.com/hbctraining/rnaseq-cb321",
+    "repo_url": "https://github.com/hbctraining/rnaseq-cb321",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "Single cell current best practices tutorial case study for the paper:Luecken and Theis, \"Current best practices in single-cell RNA-seq analysis: a tutorial\" ",
+    "url": "https://github.com/theislab/single-cell-tutorial",
+    "repo_url": "https://github.com/theislab/single-cell-tutorial",
+    "author": "Theis Lab",
+    "stars": 1592,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "https://www.sc-best-practices.org",
+    "url": "https://www.sc-best-practices.org",
+    "repo_url": "https://github.com/theislab/single-cell-best-practices",
+    "author": "Theis Lab",
+    "stars": 1264,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "hbctraining/Intro-to-scRNAseq",
+    "url": "https://hbctraining.github.io/Intro-to-scRNAseq/",
+    "repo_url": "https://github.com/hbctraining/scRNA-seq_online",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 670,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "Single cell RNA sequencing analysis course",
+    "url": "https://nbisweden.github.io/workshop-scRNAseq/",
+    "repo_url": "https://github.com/nbisweden/workshop-scRNAseq",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 245,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "Single RNA-seq data analysis with R (Finland, May, 2019)",
+    "url": "https://nbisweden.github.io/excelerate-scRNAseq/",
+    "repo_url": "https://github.com/NBISweden/excelerate-scRNAseq",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 233,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "Understanding the theory behind UMAP",
+    "url": "https://pair-code.github.io/understanding-umap",
+    "repo_url": "https://github.com/PAIR-code/understanding-umap",
+    "author": "PAIR code",
+    "stars": 196,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "Analysis of single cell RNA-seq data course",
+    "url": "https://scrnaseq-course.cog.sanger.ac.uk/website/index.html",
+    "repo_url": "https://github.com/cellgeni/scRNA.seq.course",
+    "author": "Cellular Genomics Informatics",
+    "stars": 176,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Single-cell sequencing",
+    "title": "The package wrapping the book, for deployment via the Bioconductor build system.",
+    "url": "https://bioconductor.org/checkResults/devel/books-LATEST/OSCA",
+    "repo_url": "https://github.com/OSCA-source/OSCA",
+    "author": "OSCA Source Code Management",
+    "stars": 110,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "\"Orchestrating Spatial Transcriptomics Analysis with Bioconductor\" (OSTA) online book",
+    "url": "https://bioconductor.org/books/OSTA/",
+    "repo_url": "https://github.com/lmweber/OSTA",
+    "author": "Lukas Weber",
+    "stars": 114,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "elixir-europe-training/ELIXIR-SCO-spatial-omics",
+    "url": "https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/",
+    "repo_url": "https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics",
+    "author": "ELIXIR Europe Training",
+    "stars": 50,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "NBISweden/workshop-spatial",
+    "url": "https://github.com/NBISweden/workshop-spatial",
+    "repo_url": "https://github.com/NBISweden/workshop-spatial",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 17,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "GeoMX analysis workflow",
+    "url": "https://davislaboratory.github.io/GeoMXAnalysisWorkflow/",
+    "repo_url": "https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow",
+    "author": "Davis Laboratory",
+    "stars": 8,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "sib-swiss/spatial-transcriptomics-training",
+    "url": "https://sib-swiss.github.io/spatial-transcriptomics-training/",
+    "repo_url": "https://github.com/sib-swiss/spatial-transcriptomics-training/",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 6,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025",
+    "url": "https://github.com/mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025",
+    "repo_url": "https://github.com/mahfouzlab/MGC-BioSB-Spatial-Omics-Analysis-2025",
+    "author": "Mahfouz Lab",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Spatial transcriptomics",
+    "title": "Introduction to Sequencing-based Spatial Transcriptomics Data Analysis",
+    "url": "https://sib-swiss.github.io/seq-spatial-transcriptomics-training/",
+    "repo_url": "https://github.com/sib-swiss/seq-spatial-transcriptomics-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "kpatel427/YouTubeTutorials",
+    "url": "https://github.com/kpatel427/YouTubeTutorials",
+    "repo_url": "https://github.com/kpatel427/YouTubeTutorials",
+    "author": "Khushbu Patel",
+    "stars": 388,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "hbctraining/Intro-to-DGE",
+    "url": "https://hbctraining.github.io/Intro-to-DGE/",
+    "repo_url": "https://github.com/hbctraining/DGE_workshop_salmon_online",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 225,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "Introduction to bulk RNA-seq",
+    "url": "https://hbctraining.github.io/Intro-to-bulk-RNAseq/",
+    "repo_url": "https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 151,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "This is a tutorial to guide the analysis of RNAseq dataset using footprint based tools such as DOROTHEA, PROGENY and CARNIVAL",
+    "url": "https://saezlab.github.io/transcriptutorial/",
+    "repo_url": "https://github.com/saezlab/transcriptutorial",
+    "author": "Saez Lab",
+    "stars": 57,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "Workshop • Analysis of RNA-seq data",
+    "url": "https://NBISweden.github.io/workshop-RNAseq",
+    "repo_url": "https://github.com/NBISweden/workshop-RNAseq",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 39,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "This RNAseq data analysis tutorial is created for educational purpose ",
+    "url": "https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis",
+    "repo_url": "https://github.com/amarinderthind/RNA-seq-tutorial-for-gene-differential-expression-analysis",
+    "author": "Amarinder Singh Thind",
+    "stars": 36,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor",
+    "url": "https://carpentries-incubator.github.io/bioc-rnaseq",
+    "repo_url": "https://github.com/carpentries-incubator/bioc-rnaseq",
+    "author": "The Carpentries Incubator",
+    "stars": 27,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Transcriptomics",
+    "title": "Workshop on tidytranscriptomics: Performing tidy transcriptomics analyses with tidybulk, tidyverse and tidyheatmap",
+    "url": "https://stemangiola.github.io/bioc_2020_tidytranscriptomics/",
+    "repo_url": "https://github.com/stemangiola/bioc_2020_tidytranscriptomics",
+    "author": "Stefano Mangiola",
+    "stars": 26,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "A comprehensive tutorial about GWAS and PRS",
+    "url": "https://github.com/MareesAT/GWA_tutorial",
+    "repo_url": "https://github.com/MareesAT/GWA_tutorial",
+    "author": "Andries Marees",
+    "stars": 1020,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "nt246/lcwgs-guide-tutorial",
+    "url": "https://github.com/nt246/lcwgs-guide-tutorial",
+    "repo_url": "https://github.com/nt246/lcwgs-guide-tutorial",
+    "author": "Nina Overgaard Therkildsen",
+    "stars": 112,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "Here we are going to discuss variant calling on human datasets using GATK Best practices pipeline",
+    "url": "https://github.com/digo4/Clinical-Genomics",
+    "repo_url": "https://github.com/digo4/Clinical-Genomics",
+    "author": "Dipannita Ghosh",
+    "stars": 46,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "hbctraining/Intro-to-variant-analysis",
+    "url": "https://hbctraining.github.io/Intro-to-variant-analysis/",
+    "repo_url": "https://github.com/hbctraining/variant_analysis",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 36,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "sib-swiss/cancer-variants-training",
+    "url": "https://sib-swiss.github.io/cancer-variants-training/",
+    "repo_url": "https://github.com/sib-swiss/cancer-variants-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 12,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Omics analysis",
+    "topic": "Variant analysis",
+    "title": "Learn to execute a successful GWAS experiment from design to analysis.",
+    "url": "https://github.com/ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies",
+    "repo_url": "https://github.com/ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies",
+    "author": "UC Davis Bioinformatics Core Training Page",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "a curated list of R tutorials for Data Science, NLP and Machine Learning ",
+    "url": "https://github.com/ujjwalkarn/DataScienceR",
+    "repo_url": "https://github.com/ujjwalkarn/DataScienceR",
+    "author": "Ujjwal Karn",
+    "stars": 2150,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "resources for learning bioinformatics",
+    "url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
+    "repo_url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
+    "author": "Harvard Informatics",
+    "stars": 1659,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "Unix, R and python tools for genomics and data science",
+    "url": "https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources",
+    "repo_url": "https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources",
+    "author": "Ming Tang",
+    "stars": 1408,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "Introduction to Computational Biology and Bioinformatics Course at Caltech, 2023",
+    "url": "https://github.com/pachterlab/BI-BE-CS-183-2023",
+    "repo_url": "https://github.com/pachterlab/BI-BE-CS-183-2023",
+    "author": "Pachter Lab",
+    "stars": 546,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)",
+    "url": "https://github.com/bradleyboehmke/data-science-learning-resources",
+    "repo_url": "https://github.com/bradleyboehmke/data-science-learning-resources",
+    "author": "Bradley Boehmke",
+    "stars": 536,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "A guided, intuitive introduction to genomics for software engineers. Curated by the community.",
+    "url": "https://learngenomics.dev",
+    "repo_url": "https://github.com/stjude/learngenomics.dev",
+    "author": "St. Jude Children's Research Hospital",
+    "stars": 461,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "Materials for short, half-day workshops",
+    "url": "https://hbctraining.github.io/Training-modules/",
+    "repo_url": "https://github.com/hbctraining/Training-modules",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 365,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Others",
+    "topic": "General",
+    "title": "Workshops presented by the Gladstone Bioinformatics Core",
+    "url": "https://github.com/gladstone-institutes/Bioinformatics-Presentations/wiki",
+    "repo_url": "https://github.com/gladstone-institutes/Bioinformatics-Workshops",
+    "author": "gladstone-institutes",
+    "stars": 250,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "OBO Organized Knowledge: Training materials for becoming an OBO engineer ",
+    "url": "https://oboacademy.github.io/obook/",
+    "repo_url": "https://github.com/OBOAcademy/obook",
+    "author": "OBOAcademy",
+    "stars": 123,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "ELIXIR Research Data Management Toolkit - Find the answers to your research data management questions here.",
+    "url": "https://rdmkit.elixir-europe.org",
+    "repo_url": "https://github.com/elixir-europe/rdmkit",
+    "author": "ELIXIR Europe",
+    "stars": 117,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "Data Management with SQL for Ecologists",
+    "url": "http://datacarpentry.github.io/sql-ecology-lesson",
+    "repo_url": "https://github.com/datacarpentry/sql-ecology-lesson",
+    "author": "Data Carpentry",
+    "stars": 56,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "Opensciency - A core open science curriculum by and for the research community.",
+    "url": "https://opensciency.github.io/sprint-content/",
+    "repo_url": "https://github.com/opensciency/sprint-content",
+    "author": "OpenSciency",
+    "stars": 47,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "Data Organization in Spreadsheets for Ecologists",
+    "url": "https://datacarpentry.org/spreadsheet-ecology-lesson",
+    "repo_url": "https://github.com/datacarpentry/spreadsheet-ecology-lesson",
+    "author": "Data Carpentry",
+    "stars": 44,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "Good Enough Practices in Scientific Computing",
+    "url": "https://carpentries-lab.github.io/good-enough-practices/",
+    "repo_url": "https://github.com/carpentries-lab/good-enough-practices",
+    "author": "The Carpentries Lab",
+    "stars": 25,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "Course on good principles & practices in Data Management (https://tinyurl.com/cruk-myrd)",
+    "url": "https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/",
+    "repo_url": "https://github.com/bioinformatics-core-shared-training/Managing-your-research-data",
+    "author": "CRUK CI Bioinformatics Core",
+    "stars": 19,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Data management",
+    "title": "NFDI4BIOIMAGE/training",
+    "url": "https://nfdi4bioimage.github.io/training",
+    "repo_url": "https://github.com/NFDI4BIOIMAGE/training",
+    "author": "NFDI4BIOIMAGE",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "FAIR data",
+    "title": "The FAIR cookbook, containing recipes to make your data more FAIR. Find the rendered version on:",
+    "url": "https://faircookbook.elixir-europe.org",
+    "repo_url": "https://github.com/FAIRplus/the-fair-cookbook",
+    "author": "FAIRplus",
+    "stars": 151,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "FAIR data",
+    "title": "Train-the-trainer handbook for making training materials FAIR",
+    "url": "https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/",
+    "repo_url": "https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook",
+    "author": "ELIXIR Europe Training",
+    "stars": 22,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "FAIR data",
+    "title": "Formation continue sur la FAIRisation du code informatique",
+    "url": "https://ifb-elixirfr.github.io/IFB-FAIR-bioinfo-training",
+    "repo_url": "https://github.com/IFB-ElixirFr/IFB-FAIR-bioinfo-training",
+    "author": "Institut Français de Bioinformatique (IFB)",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "FAIR data",
+    "title": "FAIR in (biological) practice",
+    "url": "https://carpentries-incubator.github.io/fair-bio-practice/",
+    "repo_url": "https://github.com/carpentries-incubator/fair-bio-practice",
+    "author": "The Carpentries Incubator",
+    "stars": 8,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "FAIR data",
+    "title": "elixir-europe-training/ELIXIR-TrP-FAIR-Converge",
+    "url": "https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Converge/",
+    "repo_url": "https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-Converge",
+    "author": "ELIXIR Europe Training",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "NBIS/Elixir course: Tools for Reproducible Research",
+    "url": "https://nbisweden.github.io/workshop-reproducible-research/",
+    "repo_url": "https://github.com/NBISweden/workshop-reproducible-research",
+    "author": "NBIS - National Bioinformatics Infrastructure Sweden",
+    "stars": 69,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "The Organization lesson for the Reproducible Science Curriculum",
+    "url": "http://www.datacarpentry.org/rr-organization1/",
+    "repo_url": "https://github.com/datacarpentry/rr-organization1",
+    "author": "Data Carpentry",
+    "stars": 46,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "Building Better Research Software",
+    "url": "https://carpentries-incubator.github.io/better-research-software/",
+    "repo_url": "https://github.com/carpentries-incubator/better-research-software/",
+    "author": "The Carpentries Incubator",
+    "stars": 20,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "Introduction to Reproducible Publications with Quarto",
+    "url": "https://carpentries-incubator.github.io/reproducible-publications-quarto/",
+    "repo_url": "https://github.com/carpentries-incubator/reproducible-publications-quarto",
+    "author": "The Carpentries Incubator",
+    "stars": 18,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "Building Websites with Jekyll & GitHub Pages.",
+    "url": "https://carpentries-incubator.github.io/jekyll-pages-novice/",
+    "repo_url": "https://github.com/carpentries-incubator/jekyll-pages-novice",
+    "author": "The Carpentries Incubator",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "Home Repository for the CfRR website",
+    "url": "https://coding-for-reproducible-research.github.io/CfRR_Courses/",
+    "repo_url": "https://github.com/coding-for-reproducible-research/cfrr_courses",
+    "author": "Coding For Reproducible Research (CfRR)",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Reproducibility and data management",
+    "topic": "Reproducibility",
+    "title": "hbctraining/Tools-for-reproducible-research",
+    "url": "https://hbctraining.github.io/Tools-for-reproducible-research/",
+    "repo_url": "https://github.com/hbctraining/reproducibility-tools",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
+    "stars": 14,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "C/C++",
+    "title": "Interactive Port of the Wikibook C-Programming to LiaScript (english)",
+    "url": "https://liascript.github.io/course/",
+    "repo_url": "https://github.com/LiaBooks/C-Programming",
+    "author": "LiaBooks ... by LiaScript",
+    "stars": 14,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "Friends don't let friends make certain types of data visualization - What are they and why are they bad. ",
+    "url": "https://github.com/cxli233/FriendsDontLetFriends",
+    "repo_url": "https://github.com/cxli233/FriendsDontLetFriends",
+    "author": "C. Li",
+    "stars": 7107,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "A book covering the fundamentals of data visualization",
+    "url": "https://clauswilke.com/dataviz",
+    "repo_url": "https://github.com/clauswilke/dataviz",
+    "author": "Claus Wilke",
+    "stars": 3528,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "ggplot2: elegant graphics for data analysis",
+    "url": "https://ggplot2-book.org",
+    "repo_url": "https://github.com/hadley/ggplot2-book",
+    "author": "Hadley Wickham",
+    "stars": 1686,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "A data visualization curriculum of interactive notebooks.",
+    "url": "https://idl.uw.edu/visualization-curriculum/",
+    "repo_url": "https://github.com/uwdata/visualization-curriculum",
+    "author": "UW Interactive Data Lab",
+    "stars": 1369,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "A list of interesting genome browser and genome visualization programs",
+    "url": "https://cmdcolin.github.io/awesome-genome-visualization/",
+    "repo_url": "https://github.com/cmdcolin/awesome-genome-visualization/ ",
+    "author": "Colin Diesh",
+    "stars": 1106,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.",
+    "url": "https://handsondataviz.org",
+    "repo_url": "https://github.com/handsondataviz/book",
+    "author": "Hands-On Data Visualization",
+    "stars": 319,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "plotly for R book",
+    "url": "https://plotly-r.com",
+    "repo_url": "https://github.com/cpsievert/plotly_book",
+    "author": "Carson Sievert",
+    "stars": 186,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Data visualization",
+    "title": "Kyrand/dataviz-with-python-and-js-ed-2",
+    "url": "https://github.com/Kyrand/dataviz-with-python-and-js-ed-2",
+    "repo_url": "https://github.com/Kyrand/dataviz-with-python-and-js-ed-2",
+    "author": "Kyran Dale",
+    "stars": 81,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "GNU Make",
+    "title": "Learn make by example",
+    "url": "http://makefiletutorial.com",
+    "repo_url": "https://github.com/theicfire/makefiletutorial",
+    "author": "Chase Lambert",
+    "stars": 5982,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "GNU Make",
+    "title": "Automation and Make",
+    "url": "http://swcarpentry.github.io/make-novice",
+    "repo_url": "https://github.com/swcarpentry/make-novice",
+    "author": "Software Carpentry",
+    "stars": 163,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Java",
+    "title": ":book::books:An introductory tutorial for BioJava",
+    "url": "http://www.biojava.org",
+    "repo_url": "https://github.com/biojava/biojava-tutorial",
+    "author": "BioJava",
+    "stars": 123,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Learn Julia via interactive tutorials!",
+    "url": "https://julialang.org/learning/",
+    "repo_url": "https://github.com/JuliaAcademy/JuliaTutorials",
+    "author": "JuliaAcademy",
+    "stars": 1362,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Port of the book Think Python to the Julia programming language",
+    "url": "https://github.com/BenLauwens/ThinkJulia.jl",
+    "repo_url": "https://github.com/BenLauwens/ThinkJulia.jl",
+    "author": "Ben Lauwens",
+    "stars": 573,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Data Science in Julia course for JuliaAcademy.com, taught by Huda Nassar ",
+    "url": "https://juliaacademy.com/p/julia-for-data-science",
+    "repo_url": "https://github.com/JuliaAcademy/DataScience",
+    "author": "JuliaAcademy",
+    "stars": 533,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Learn the language basics in this 10-part course.",
+    "url": "https://juliaacademy.com/p/intro-to-julia",
+    "repo_url": "https://github.com/JuliaAcademy/Introduction-to-Julia",
+    "author": "JuliaAcademy",
+    "stars": 489,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich",
+    "url": "https://github.com/omlins/julia-gpu-course",
+    "repo_url": "https://github.com/omlins/julia-gpu-course",
+    "author": "Samuel Omlin",
+    "stars": 260,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "A course for people who are hesitant but curious about learning to write code in Julia.",
+    "url": "https://juliaacademy.com/p/julia-programming-for-nervous-beginners",
+    "repo_url": "https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners",
+    "author": "JuliaAcademy",
+    "stars": 188,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Welcome to DataFrames.jl with Bogumił Kamiński",
+    "url": "https://github.com/JuliaAcademy/DataFrames",
+    "repo_url": "https://github.com/JuliaAcademy/DataFrames",
+    "author": "JuliaAcademy",
+    "stars": 126,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Julia",
+    "title": "Julia workshop for Data Science",
+    "url": "https://crsl4.github.io/julia-workshop/",
+    "repo_url": "https://github.com/crsl4/julia-workshop",
+    "author": "Claudia Solis-Lemus",
+    "stars": 73,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "MATLAB/Octave",
+    "title": "Programming with MATLAB",
+    "url": "http://swcarpentry.github.io/matlab-novice-inflammation/",
+    "repo_url": "https://github.com/swcarpentry/matlab-novice-inflammation",
+    "author": "Software Carpentry",
+    "stars": 34,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "OpenMP",
+    "title": "MolSSI-Education/parallel-programming",
+    "url": "https://molssi-education.github.io/parallel-programming/",
+    "repo_url": "https://github.com/MolSSI-Education/parallel-programming",
+    "author": "MolSSI Education",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "All Algorithms implemented in Python",
+    "url": "https://thealgorithms.github.io/Python/",
+    "repo_url": "https://github.com/TheAlgorithms/Python",
+    "author": "The Algorithms",
+    "stars": 224617,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "url": "http://jakevdp.github.io/PythonDataScienceHandbook",
+    "repo_url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "author": "Jake Vanderplas",
+    "stars": 49888,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "Python best practices guidebook, written for humans. ",
+    "url": "https://docs.python-guide.org",
+    "repo_url": "https://github.com/realpython/python-guide",
+    "author": "Real Python",
+    "stars": 29809,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "100+ Python challenging programming exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "repo_url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "author": "Jeffrey Hu",
+    "stars": 29645,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+    "url": "https://github.com/wesm/pydata-book",
+    "repo_url": "https://github.com/wesm/pydata-book",
+    "author": "Wes McKinney",
+    "stars": 24924,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "url": "https://github.com/trekhleb/learn-python",
+    "repo_url": "https://github.com/trekhleb/learn-python",
+    "author": "Oleksii Trekhleb",
+    "stars": 18289,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "Python Koans - Learn Python through TDD",
+    "url": "https://github.com/gregmalcolm/python_koans",
+    "repo_url": "https://github.com/gregmalcolm/python_koans",
+    "author": "Greg Malcolm",
+    "stars": 5115,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Python",
+    "title": "Full Speed Python: a book for self-learners",
+    "url": "https://github.com/joaoventura/full-speed-python",
+    "repo_url": "https://github.com/joaoventura/full-speed-python",
+    "author": "João Ventura",
+    "stars": 4067,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "Customize Quarto websites using Sass & CSS",
+    "url": "https://ucsb-meds.github.io/customizing-quarto-websites/",
+    "repo_url": "https://github.com/UCSB-MEDS/customizing-quarto-websites",
+    "author": "Master of Environmental Data Science (MEDS) program",
+    "stars": 62,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "posit-conf-2023/quarto-r",
+    "url": "https://posit-conf-2023.github.io/quarto-r/",
+    "repo_url": "https://github.com/posit-conf-2023/quarto-r",
+    "author": "posit-conf-2023",
+    "stars": 26,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "2024-01-23 R-Ladies Nairobi",
+    "url": "https://ivelasq.quarto.pub/getting-started-with-report-writing-using-quarto/#/title-slide",
+    "repo_url": "https://github.com/ivelasq/2024-01-23_getting-started-with-report-writing-using-quarto",
+    "author": "Isabella Velásquez",
+    "stars": 22,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "learn how to build a personal website using Quarto",
+    "url": "https://ucsb-meds.github.io/creating-quarto-websites/",
+    "repo_url": "https://github.com/UCSB-MEDS/creating-quarto-websites",
+    "author": "Master of Environmental Data Science (MEDS) program",
+    "stars": 17,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "posit-conf-2024/quarto-dashboards",
+    "url": "https://posit-conf-2024.github.io/quarto-dashboards/",
+    "repo_url": "https://github.com/posit-conf-2024/quarto-dashboards",
+    "author": "posit::conf(2024)",
+    "stars": 12,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "posit-conf-2024/quarto-websites",
+    "url": "https://posit-conf-2024.github.io/quarto-websites/",
+    "repo_url": "https://github.com/posit-conf-2024/quarto-websites",
+    "author": "posit::conf(2024)",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Quarto",
+    "title": "Posit conf::2023 Quarto for python developers workshop",
+    "url": "https://bit.ly/pyquarto",
+    "repo_url": "https://github.com/hamelsmu/posit-python-quarto",
+    "author": "Hamel Husain",
+    "stars": 7,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "R for data science: a book",
+    "url": "https://r4ds.hadley.nz",
+    "repo_url": "https://github.com/hadley/r4ds",
+    "author": "Hadley Wickham",
+    "stars": 5156,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Advanced R: a book",
+    "url": "http://adv-r.hadley.nz",
+    "repo_url": "https://github.com/hadley/adv-r",
+    "author": "Hadley Wickham",
+    "stars": 2458,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Mastering Shiny: a book",
+    "url": "https://mastering-shiny.org",
+    "repo_url": "https://github.com/hadley/mastering-shiny",
+    "author": "Hadley Wickham",
+    "stars": 1381,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Manuscript of the book \"Tidy Text Mining with R\" by Julia Silge and David Robinson",
+    "url": "http://tidytextmining.com",
+    "repo_url": "https://github.com/dgrtwo/tidy-text-mining",
+    "author": "David Robinson",
+    "stars": 1373,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": ":cyclone: Learn R, in R.",
+    "url": "http://swirlstats.com",
+    "repo_url": "https://github.com/swirldev/swirl",
+    "author": "swirl development team",
+    "stars": 1219,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Fast Lane to Learning R!",
+    "url": "https://github.com/matloff/fasteR",
+    "repo_url": "https://github.com/matloff/fasteR",
+    "author": "Norm Matloff",
+    "stars": 1167,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Building R packages",
+    "url": "https://r-pkgs.org",
+    "repo_url": "https://github.com/hadley/r-pkgs",
+    "author": "Hadley Wickham",
+    "stars": 953,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "R",
+    "title": "Statistical Inference via Data Science: A ModernDive into R and the Tidyverse",
+    "url": "https://www.moderndive.com/v2/",
+    "repo_url": "https://github.com/moderndive/ModernDive_book",
+    "author": "ModernDive",
+    "stars": 806,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Rust",
+    "title": ":crab: Small exercises to get you used to reading and writing Rust code!",
+    "url": "https://rustlings.rust-lang.org",
+    "repo_url": "https://github.com/rust-lang/rustlings",
+    "author": "The Rust Programming Language",
+    "stars": 64156,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Rust",
+    "title": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "url": "https://google.github.io/comprehensive-rust/",
+    "repo_url": "https://github.com/google/comprehensive-rust",
+    "author": "Google",
+    "stars": 33361,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "SPARQL",
+    "title": "This repository contains training material for querying SIB (Swiss Institute of Bioinformatics) resources with SPARQL.",
+    "url": "https://github.com/sib-swiss/sparql-training",
+    "repo_url": "https://github.com/sib-swiss/sparql-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 11,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "Engineering Production-Grade Shiny Apps — Published in the R Series ",
+    "url": "https://engineering-shiny.org",
+    "repo_url": "https://github.com/ThinkR-open/engineering-shiny-book",
+    "author": "ThinkR",
+    "stars": 248,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "A guide for deploying Shinylive R application into Github Pages",
+    "url": "https://ramikrispin.github.io/shinylive-r/",
+    "repo_url": "https://github.com/RamiKrispin/shinylive-r",
+    "author": "Rami Krispin",
+    "stars": 189,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "Take your Shiny skills to the next level",
+    "url": "https://posit-conf-2024.github.io/level-up-shiny/",
+    "repo_url": "https://github.com/posit-conf-2024/level-up-shiny",
+    "author": "posit::conf(2024)",
+    "stars": 22,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "posit-dev/py-shiny-workshop",
+    "url": "https://posit-dev.github.io/py-shiny-workshop",
+    "repo_url": "https://github.com/posit-dev/shiny-python-workshop-2023",
+    "author": "Posit, PBC",
+    "stars": 20,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "Shiny app-packages (book)",
+    "url": "https://mjfrigaard.github.io/shiny-app-pkgs/",
+    "repo_url": "https://github.com/mjfrigaard/shiny-app-pkgs",
+    "author": "Martin J Frigaard",
+    "stars": 20,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "Material for the Shiny in Production: Tools and Techniques Workshop - posit::conf(2023)",
+    "url": "https://posit-conf-2023.github.io/shiny-r-prod/",
+    "repo_url": "https://github.com/posit-conf-2023/shiny-r-prod",
+    "author": "posit-conf-2023",
+    "stars": 18,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Shiny",
+    "title": "Getting Started with Shiny for R - posit::conf 2023",
+    "url": "https://posit-conf-2023.github.io/shiny-r-intro/",
+    "repo_url": "https://github.com/posit-conf-2023/shiny-r-intro",
+    "author": "posit-conf-2023",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Free Introduction to Bash Scripting eBook",
+    "url": "https://leanpub.com/b/linux-devops-ebook-bundle",
+    "repo_url": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
+    "author": "Bobby Iliev",
+    "stars": 6351,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Data Science at the Command Line",
+    "url": "https://datascienceatthecommandline.com",
+    "repo_url": "https://github.com/jeroenjanssens/data-science-at-the-command-line",
+    "author": "Jeroen Janssens",
+    "stars": 3973,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Example based guide to mastering GNU awk",
+    "url": "https://learnbyexample.github.io/learn_gnuawk/",
+    "repo_url": "https://github.com/learnbyexample/learn_gnuawk",
+    "author": "Sundeep Agarwal",
+    "stars": 1145,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": ":penguin: Linux command line and Scripting guide for beginner to intermediate users",
+    "url": "https://learnbyexample.github.io/cli-computing/",
+    "repo_url": "https://github.com/learnbyexample/cli-computing",
+    "author": "Sundeep Agarwal",
+    "stars": 699,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "The Unix Shell",
+    "url": "http://swcarpentry.github.io/shell-novice/",
+    "repo_url": "https://github.com/swcarpentry/shell-novice",
+    "author": "Software Carpentry",
+    "stars": 446,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Example based guide to mastering GNU grep and ripgrep",
+    "url": "https://learnbyexample.github.io/learn_gnugrep_ripgrep/",
+    "repo_url": "https://github.com/learnbyexample/learn_gnugrep_ripgrep",
+    "author": "Sundeep Agarwal",
+    "stars": 353,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Learn Linux commands by playing a simple text adventure.",
+    "url": "https://gitlab.com/slackermedia/bashcrawl",
+    "repo_url": "https://gitlab.com/slackermedia/bashcrawl",
+    "author": "slackermedia",
+    "stars": 292,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Unix/Linux",
+    "title": "Example based guide to mastering GNU sed",
+    "url": "https://learnbyexample.github.io/learn_gnused/",
+    "repo_url": "https://github.com/learnbyexample/learn_gnused",
+    "author": "Sundeep Agarwal",
+    "stars": 220,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Version Control with Git",
+    "url": "http://swcarpentry.github.io/git-novice/",
+    "repo_url": "https://github.com/swcarpentry/git-novice",
+    "author": "Software Carpentry",
+    "stars": 379,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Introduction to version control with Git - Why we want to track versions and how to go back in time to a working version",
+    "url": "https://coderefinery.github.io/git-intro/",
+    "repo_url": "https://github.com/coderefinery/git-intro",
+    "author": "coderefinery",
+    "stars": 39,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": ":octocat: A basic git and Linux bash CLI training",
+    "url": "https://kottans.org/git-course/",
+    "repo_url": "https://github.com/kottans/git-course",
+    "author": "Kottans",
+    "stars": 37,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Version control training course using Git",
+    "url": "http://gcapes.github.io/git-course/",
+    "repo_url": "https://github.com/gcapes/git-course",
+    "author": "Gerard Capes",
+    "stars": 22,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Training materials for zero to hero training in version control through git, github and gitkraken",
+    "url": "https://srse-git-github-zero2hero.netlify.app",
+    "repo_url": "https://github.com/RSE-Sheffield/git-github-zero-to-hero",
+    "author": "RSE Sheffield",
+    "stars": 16,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Collaborative distributed version control lesson.",
+    "url": "https://coderefinery.github.io/git-collaborative/",
+    "repo_url": "https://github.com/coderefinery/git-collaborative",
+    "author": "coderefinery",
+    "stars": 10,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Scripting and languages",
+    "topic": "Version control",
+    "title": "Reproducible Science Curriculum Lesson for Version Control",
+    "url": "http://www.datacarpentry.org/rr-version-control/",
+    "repo_url": "https://github.com/datacarpentry/rr-version-control",
+    "author": "Data Carpentry",
+    "stars": 9,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Artificial intelligence",
+    "title": "Understanding Deep Learning - Simon J.D. Prince",
+    "url": "https://github.com/udlbook/udlbook",
+    "repo_url": "https://github.com/udlbook/udlbook",
+    "author": "udlbook",
+    "stars": 9899,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Artificial intelligence",
+    "title": "Learn Deep Learning with Python",
+    "url": "https://carpentries-lab.github.io/deep-learning-intro/",
+    "repo_url": "https://github.com/carpentries-lab/deep-learning-intro",
+    "author": "The Carpentries Lab",
+    "stars": 40,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Artificial intelligence",
+    "title": "BiotrAIn course: specialised training is designed for students, researchers, and professionals in biological sciences from Latin America who are interested in leveraging Artificial Intelligence (AI) for bioscience applications.",
+    "url": "https://www.ebi.ac.uk/training/our-partnerships/biotrain",
+    "repo_url": "https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes",
+    "author": "BiotrAIn-community",
+    "stars": 18,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course here 👇🏼",
+    "url": "https://courses.datatalks.club/register/de-zoomcamp/",
+    "repo_url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "author": "DataTalksClub",
+    "stars": 45566,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Python interactive dashboards for learning data science",
+    "url": "https://github.com/GeostatsGuy/DataScienceInteractivePython",
+    "repo_url": "https://github.com/GeostatsGuy/DataScienceInteractivePython",
+    "author": "Michael Pyrcz",
+    "stars": 2586,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science",
+    "url": "https://book.the-turing-way.org",
+    "repo_url": "https://github.com/the-turing-way/the-turing-way",
+    "author": "The Turing Way",
+    "stars": 2177,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Repository for data science book",
+    "url": "https://github.com/rafalab/dsbook",
+    "repo_url": "https://github.com/rafalab/dsbook",
+    "author": "Rafael A Irizarry",
+    "stars": 1216,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Data Science Course in a Box",
+    "url": "https://datasciencebox.org",
+    "repo_url": "https://github.com/tidyverse/datascience-box",
+    "author": "tidyverse",
+    "stars": 1021,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "The textbook Computational and Inferential Thinking: The Foundations of Data Science",
+    "url": "http://www.inferentialthinking.com",
+    "repo_url": "https://github.com/data-8/textbook",
+    "author": "UC Berkeley Data 8",
+    "stars": 915,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Ways of doing Data Science Engineering and Machine Learning in R and Python",
+    "url": "http://jadianes.github.io/data-science-your-way",
+    "repo_url": "https://github.com/jadianes/data-science-your-way",
+    "author": "Jose A Dianes",
+    "stars": 618,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Data science",
+    "title": "Learning Data Science, a textbook.",
+    "url": "https://learningds.org",
+    "repo_url": "https://github.com/DS-100/textbook/",
+    "author": "UC Berkeley Data 100",
+    "stars": 269,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "url": "https://mlabonne.github.io/blog/",
+    "repo_url": "https://github.com/mlabonne/llm-course",
+    "author": "Maxime Labonne",
+    "stars": 82867,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "Tutorial on large language models for genomics",
+    "url": "https://github.com/raphaelmourad/LLM-for-genomics-training",
+    "repo_url": "https://github.com/raphaelmourad/LLM-for-genomics-training",
+    "author": "Raphael Mourad",
+    "stars": 287,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "A brief introduction to agentic coding principles and practice",
+    "url": "https://github.com/seandavi/agentic-coding-intro",
+    "repo_url": "https://github.com/seandavi/agentic-coding-intro",
+    "author": "Sean Davis",
+    "stars": 48,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "🧑‍🏫 SIB course on using LLM for biodata exploration",
+    "url": "https://sib-swiss.github.io/llm-biodata-training",
+    "repo_url": "https://github.com/sib-swiss/llm-biodata-training",
+    "author": "SIB Swiss Institute of Bioinformatics",
+    "stars": 21,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "ML-Bioinfo-CEITEC/bioinfo-school",
+    "url": "https://github.com/ML-Bioinfo-CEITEC/bioinfo-school",
+    "repo_url": "https://github.com/ML-Bioinfo-CEITEC/bioinfo-school",
+    "author": "ML-Bioinfo-CEITEC",
+    "stars": 6,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Large language models",
+    "title": "This course on AI for software development explores the use of AI large language models (ChatGPT, Bard, etc) and their potential benefits and challenges. Hands-on activities show the ways in which AI can speed up software development tasks and free up time for more creative and strategic work, maximizing benefits/efficiency while limiting harm.",
+    "url": "https://hutchdatascience.org/AI_for_Efficient_Programming/",
+    "repo_url": "https://github.com/fhdsl/AI_for_Efficient_Programming",
+    "author": "Fred Hutch Data Science Lab",
+    "stars": 5,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": ":satellite: Simple and ready-to-use tutorials for TensorFlow ",
+    "url": "https://github.com/instillai/TensorFlow-Course",
+    "repo_url": "https://github.com/instillai/TensorFlow-Course",
+    "author": "Instill AI",
+    "stars": 16269,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Open Machine Learning Course",
+    "url": "https://mlcourse.ai",
+    "repo_url": "https://github.com/Yorko/mlcourse.ai",
+    "author": "Yury Kashnitsky",
+    "stars": 10712,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "url": "https://deeplearning.mit.edu",
+    "repo_url": "https://github.com/lexfridman/mit-deep-learning",
+    "author": "Lex Fridman",
+    "stars": 10457,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Open Machine Learning course",
+    "url": "https://github.com/girafe-ai/ml-course",
+    "repo_url": "https://github.com/girafe-ai/ml-course",
+    "author": "girafe.ai",
+    "stars": 3552,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "A Code-First Introduction to NLP course",
+    "url": "https://www.fast.ai/2019/07/08/fastai-nlp/",
+    "repo_url": "https://github.com/fastai/course-nlp",
+    "author": "fast.ai",
+    "stars": 3490,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023",
+    "url": "https://uvadlc-notebooks.readthedocs.io/en/latest/",
+    "repo_url": "https://github.com/phlippe/uvadlc_notebooks/",
+    "author": "Phillip Lippe",
+    "stars": 3190,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Machine learning in Python with scikit-learn MOOC",
+    "url": "https://inria.github.io/scikit-learn-mooc",
+    "repo_url": "https://github.com/INRIA/scikit-learn-mooc",
+    "author": "Inria",
+    "stars": 1405,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Machine learning",
+    "title": "Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University",
+    "url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+    "repo_url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+    "author": "Paderborn University - LEA",
+    "stars": 1192,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "Text and supporting code for Think Stats, 2nd Edition",
+    "url": "http://allendowney.github.io/ThinkStats2/",
+    "repo_url": "https://github.com/AllenDowney/ThinkStats2",
+    "author": "Allen Downey",
+    "stars": 4230,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "Statistical Rethinking course winter 2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "repo_url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "author": "Richard McElreath",
+    "stars": 4111,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "NMA Computational Neuroscience course",
+    "url": "https://compneuro.neuromatch.io",
+    "repo_url": "https://github.com/NeuromatchAcademy/course-content",
+    "author": "Neuromatch Academy",
+    "stars": 3129,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "Statistical Rethinking Course for Jan-Mar 2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "repo_url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "author": "Richard McElreath",
+    "stars": 2384,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "rmcelreath/stat_rethinking_2024",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2024",
+    "repo_url": "https://github.com/rmcelreath/stat_rethinking_2024",
+    "author": "Richard McElreath",
+    "stars": 1825,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "Code repository for Think Bayes.",
+    "url": "https://github.com/AllenDowney/ThinkBayes",
+    "repo_url": "https://github.com/AllenDowney/ThinkBayes",
+    "author": "Allen Downey",
+    "stars": 1702,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference.",
+    "url": "https://openintrostat.github.io/ims/",
+    "repo_url": "https://github.com/OpenIntroStat/ims/",
+    "author": "OpenIntro",
+    "stars": 948,
+    "source": "Glittr.org"
+  },
+  {
+    "category": "Statistics and machine learning",
+    "topic": "Statistics",
+    "title": "Causal Inference in R: A book!",
+    "url": "https://www.r-causal.org",
+    "repo_url": "https://github.com/r-causal/causal-inference-in-R",
+    "author": "Causal Inference in R",
+    "stars": 251,
+    "source": "Glittr.org"
+  }
+]

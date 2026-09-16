@@ -1,4 +1,10 @@
 {
-  "last_run": null,
-  "sources": {}
+  "last_run": "2026-09-16T10:41:50.501327+00:00",
+  "sources": {
+    "Glittr.org": {
+      "status": "ok",
+      "count": 246,
+      "last_success": "2026-09-16T10:41:50.501327+00:00"
+    }
+  }
 }
