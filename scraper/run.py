@@ -21,14 +21,19 @@ SCRAPER_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRAPER_DIR))  # so `from fetchutil import get` works inside sources/*
 
 from sources import (  # noqa: E402
+    bioinformatics_org,
     euraxess,
     eurosciencejobs,
     jobrxiv,
+    mpg_jobs,
     nature_careers,
     scilifelab,
 )
 
-SOURCES = [jobrxiv, nature_careers, euraxess, scilifelab, eurosciencejobs]
+SOURCES = [
+    jobrxiv, nature_careers, euraxess, scilifelab, eurosciencejobs,
+    bioinformatics_org, mpg_jobs,
+]
 EXPIRY_DAYS = 45
 
 JOBS_PATH = REPO_ROOT / "data" / "jobs.json"

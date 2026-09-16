@@ -2,9 +2,14 @@
   --ink:#16191c;
   --ink-soft:#3d474b;
   --paper:#fcfcfa;
-  --spruce:#1e5b4a;
-  --spruce-deep:#123a2f;
-  --tint:#e8efeb;
+  /* Palette nods to both flags: Swedish blue/yellow (--spruce, --tint) and
+     Bangladesh green/red (--spruce-deep, --flag-red). Body text and the
+     main reading background stay dark-ink-on-off-white regardless -- see
+     the README note on why (accessibility/legibility, not decoration). */
+  --spruce:#0a6aa8;        /* Swedish blue -- links, accents, active states */
+  --spruce-deep:#045c41;   /* Bangladesh green -- header bg, emphasis text */
+  --tint:#fdf1c7;          /* soft Swedish yellow -- tag/badge backgrounds */
+  --flag-red:#c62f3d;      /* Bangladesh red -- used sparingly (fail status, stripe) */
   --rail:#5f6b6e;
   --hair:#dbe0dd;
   --measure:920px;
@@ -22,7 +27,7 @@ body{
   -webkit-font-smoothing:antialiased;
 }
 
-a{color:var(--spruce);text-decoration:none;border-bottom:1px solid rgba(30,91,74,.28);}
+a{color:var(--spruce);text-decoration:none;border-bottom:1px solid rgba(10,106,168,.28);}
 a:hover{border-bottom-color:var(--spruce);}
 a:focus-visible{outline:2px solid var(--spruce);outline-offset:2px;border-radius:2px;}
 
@@ -30,8 +35,27 @@ a:focus-visible{outline:2px solid var(--spruce);outline-offset:2px;border-radius
 
 /* ---------- header / nav ---------- */
 
-header.site{border-bottom:2px solid var(--spruce);background:var(--paper);}
+header.site{
+  background:var(--spruce-deep);
+  position:relative;
+  padding-bottom:5px; /* room for the flag stripe below */
+}
 header.site .wrap{padding:22px 20px 16px;}
+/* Thin four-band stripe: Swedish blue/yellow + Bangladesh green/red --
+   the one place the palette is used literally/decoratively rather than
+   for legible text or UI state, and deliberately kept small (5px). */
+header.site::after{
+  content:"";
+  display:block;
+  height:5px;
+  background:linear-gradient(
+    to right,
+    var(--spruce) 0 25%,
+    #fecc02 25% 50%,
+    var(--spruce-deep) 50% 75%,
+    var(--flag-red) 75% 100%
+  );
+}
 
 .brand{
   font-family:"IBM Plex Serif",Georgia,serif;
@@ -39,7 +63,7 @@ header.site .wrap{padding:22px 20px 16px;}
   font-size:26px;
   letter-spacing:-.01em;
   margin:0 0 4px;
-  color:var(--ink);
+  color:#fdf6e3;
 }
 .brand a{color:inherit;border-bottom:0;}
 .tagline{
@@ -47,7 +71,7 @@ header.site .wrap{padding:22px 20px 16px;}
   font-size:11.5px;
   letter-spacing:.08em;
   text-transform:uppercase;
-  color:var(--spruce);
+  color:#fecc02;
   margin:0 0 16px;
 }
 
@@ -58,12 +82,12 @@ nav.tabs a{
   font-weight:600;
   letter-spacing:.04em;
   text-transform:uppercase;
-  color:var(--rail);
+  color:#cfe3da;
   border-bottom:2px solid transparent;
   padding-bottom:6px;
 }
-nav.tabs a:hover{color:var(--spruce);}
-nav.tabs a.active{color:var(--spruce-deep);border-bottom-color:var(--spruce);}
+nav.tabs a:hover{color:#fecc02;}
+nav.tabs a.active{color:#fdf6e3;border-bottom-color:#fecc02;}
 
 /* ---------- main ---------- */
 
@@ -93,9 +117,9 @@ p.page-sub{color:var(--ink-soft);margin:0 0 28px;max-width:640px;}
 }
 .status-bar b{color:var(--spruce-deep);}
 .status-dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle;}
-.status-dot.ok{background:var(--spruce);}
+.status-dot.ok{background:var(--spruce-deep);}
 .status-dot.stale{background:#b8860b;}
-.status-dot.fail{background:#b13a3a;}
+.status-dot.fail{background:var(--flag-red);}
 
 /* ---------- controls ---------- */
 

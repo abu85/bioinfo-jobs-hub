@@ -22,10 +22,16 @@ No backend: the site is plain HTML/CSS/JS, and the only "dynamic" part is a JSON
 | [EURAXESS](https://euraxess.ec.europa.eu/) | HTML (keyword search) | European research positions; anchored on the stable `/jobs/<id>` link pattern. |
 | [SciLifeLab](https://www.scilifelab.se/career/) | HTML | Sweden-specific but heavily bioinformatics/computational-biology flavoured. |
 | [EuroScienceJobs](https://www.eurosciencejobs.com/) | HTML (bioinformatics category) | |
+| [bioinformatics.org](https://www.bioinformatics.org/jobs/) | HTML (forum-based board) | Its jobs board is a forum; title/date are scraped from the thread listing. |
+| [Max Planck Society](https://www.mpg.de/jobboard) | RSS, keyword-filtered | Feed covers every field the Society works in, not just biology, so entries are filtered client-side against a bioinformatics/computational-biology keyword list rather than trusted as pre-filtered. |
 
-**Deliberately not scraped: LinkedIn, Indeed, Academic Positions.** LinkedIn and Indeed explicitly prohibit automated scraping and run active anti-bot defenses (Indeed returns HTTP 403 to a plain fetch); Academic Positions sits behind a Cloudflare bot challenge. Automating against any of these would break repeatedly and risk the scraper's IP getting blocked. `index.html` links to pre-built searches on all three instead.
+**Deliberately not scraped: LinkedIn, Indeed, Academic Positions, PostdocJobs.com.** All explicitly prohibit automated scraping and/or run active anti-bot defenses (Indeed and PostdocJobs.com return HTTP 403 to a plain fetch; Academic Positions sits behind a Cloudflare bot challenge). Automating against these would break repeatedly and risk the scraper's IP getting blocked. `index.html` links to pre-built searches on LinkedIn/Indeed/Glassdoor instead.
 
-**NBIS** was tried and dropped: its `/about/work-with-us` page currently has no job listings in the static HTML (likely rendered client-side or hosted elsewhere) — nothing reliable to scrape there as of writing. Worth re-checking if their site changes.
+**Tried and dropped, worth re-checking later:**
+- **NBIS** — `/about/work-with-us` currently has no job listings in the static HTML (likely rendered client-side or hosted elsewhere).
+- **EMBL-EBI, Wellcome Sanger** — both redirect their actual listings to Workday-hosted ATS pages (`*.wd103.myworkdayjobs.com`), which are JS-rendered and not reliably scrapeable with a plain HTTP request. The same is likely true of other large institutes on Workday (e.g. Broad Institute, which returned HTTP 403 directly).
+- **Academic Jobs Online** — has real static-HTML listings, but its field/category codes aren't self-explanatory in the page source and the one guessed (`field=13`) turned out to be physics/math faculty positions, not life sciences. Worth adding once the correct bioinformatics/computational-biology field code is identified.
+- **HigherEdJobs** — returned a near-empty 212-byte response, suggesting the real content loads via JS.
 
 Each source module in `scraper/sources/` is wrapped in a try/except by `scraper/run.py`, so one source breaking (a site redesign, a network blip) doesn't take down the whole nightly run — it falls back to that source's last-known-good jobs (up to the 45-day expiry window) and records the failure in `data/last_updated.json`, which the site surfaces honestly rather than silently.
 
