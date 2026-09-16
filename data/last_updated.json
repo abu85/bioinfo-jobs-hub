@@ -1,4 +1,31 @@
 {
-  "last_run": null,
-  "sources": {}
+  "last_run": "2026-09-16T09:48:53.517863+00:00",
+  "sources": {
+    "jobRxiv": {
+      "status": "ok",
+      "count": 25,
+      "last_success": "2026-09-16T09:48:53.517863+00:00"
+    },
+    "Nature Careers": {
+      "status": "ok",
+      "count": 20,
+      "last_success": "2026-09-16T09:48:53.517863+00:00"
+    },
+    "EURAXESS": {
+      "status": "fail",
+      "count": 0,
+      "last_success": null,
+      "error": "403 Client Error: Forbidden for url: https://euraxess.ec.europa.eu/jobs/search?keywords=bioinformatics"
+    },
+    "SciLifeLab": {
+      "status": "ok",
+      "count": 9,
+      "last_success": "2026-09-16T09:48:53.517863+00:00"
+    },
+    "EuroScienceJobs": {
+      "status": "ok",
+      "count": 23,
+      "last_success": "2026-09-16T09:48:53.517863+00:00"
+    }
+  }
 }
