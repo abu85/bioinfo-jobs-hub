@@ -96,7 +96,7 @@
     "url": "https://carpentries-incubator.github.io/hpc-intro/",
     "repo_url": "https://github.com/carpentries-incubator/hpc-intro",
     "author": "The Carpentries Incubator",
-    "stars": 159,
+    "stars": 160,
     "source": "Glittr.org"
   },
   {
@@ -106,7 +106,7 @@
     "url": "https://carpentries-incubator.github.io/lesson-gpu-programming/",
     "repo_url": "https://github.com/carpentries-incubator/lesson-gpu-programming",
     "author": "The Carpentries Incubator",
-    "stars": 27,
+    "stars": 28,
     "source": "Glittr.org"
   },
   {
@@ -496,7 +496,7 @@
     "url": "https://github.com/bpucker/molecularmethodsingenomeresearch",
     "repo_url": "https://github.com/bpucker/molecularmethodsingenomeresearch",
     "author": "Boas Pucker",
-    "stars": 23,
+    "stars": 24,
     "source": "Glittr.org"
   },
   {
@@ -672,20 +672,20 @@
   {
     "category": "Omics analysis",
     "topic": "Next generation sequencing",
-    "title": "Tutorials on accessing public reference and genomic data ",
-    "url": "https://hbctraining.github.io/Accessing_public_genomic_data",
-    "repo_url": "https://github.com/hbctraining/Accessing_public_genomic_data",
-    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
-    "stars": 32,
+    "title": "course about NGS data processing: genomics and transcriptomics",
+    "url": "https://github.com/bpucker/appliedgenomeresearch",
+    "repo_url": "https://github.com/bpucker/appliedgenomeresearch",
+    "author": "Boas Pucker",
+    "stars": 33,
     "source": "Glittr.org"
   },
   {
     "category": "Omics analysis",
     "topic": "Next generation sequencing",
-    "title": "course about NGS data processing: genomics and transcriptomics",
-    "url": "https://github.com/bpucker/appliedgenomeresearch",
-    "repo_url": "https://github.com/bpucker/appliedgenomeresearch",
-    "author": "Boas Pucker",
+    "title": "Tutorials on accessing public reference and genomic data ",
+    "url": "https://hbctraining.github.io/Accessing_public_genomic_data",
+    "repo_url": "https://github.com/hbctraining/Accessing_public_genomic_data",
+    "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
     "stars": 32,
     "source": "Glittr.org"
   },
@@ -746,7 +746,7 @@
     "url": "https://github.com/Graylab/DL4Proteins-notebooks",
     "repo_url": "https://github.com/Graylab/DL4Proteins-notebooks",
     "author": "Gray Lab",
-    "stars": 724,
+    "stars": 725,
     "source": "Glittr.org"
   },
   {
@@ -806,7 +806,7 @@
     "url": "https://github.com/theislab/single-cell-tutorial",
     "repo_url": "https://github.com/theislab/single-cell-tutorial",
     "author": "Theis Lab",
-    "stars": 1593,
+    "stars": 1594,
     "source": "Glittr.org"
   },
   {
@@ -816,7 +816,7 @@
     "url": "https://www.sc-best-practices.org",
     "repo_url": "https://github.com/theislab/single-cell-best-practices",
     "author": "Theis Lab",
-    "stars": 1268,
+    "stars": 1270,
     "source": "Glittr.org"
   },
   {
@@ -916,7 +916,7 @@
     "url": "https://davislaboratory.github.io/GeoMXAnalysisWorkflow/",
     "repo_url": "https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow",
     "author": "Davis Laboratory",
-    "stars": 8,
+    "stars": 9,
     "source": "Glittr.org"
   },
   {
@@ -1106,7 +1106,7 @@
     "url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
     "repo_url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
     "author": "Harvard Informatics",
-    "stars": 1666,
+    "stars": 1667,
     "source": "Glittr.org"
   },
   {
@@ -1406,7 +1406,7 @@
     "url": "https://ggplot2-book.org",
     "repo_url": "https://github.com/hadley/ggplot2-book",
     "author": "Hadley Wickham",
-    "stars": 1687,
+    "stars": 1686,
     "source": "Glittr.org"
   },
   {
@@ -1596,7 +1596,7 @@
     "url": "https://thealgorithms.github.io/Python/",
     "repo_url": "https://github.com/TheAlgorithms/Python",
     "author": "The Algorithms",
-    "stars": 224811,
+    "stars": 224845,
     "source": "Glittr.org"
   },
   {
@@ -1606,7 +1606,7 @@
     "url": "http://jakevdp.github.io/PythonDataScienceHandbook",
     "repo_url": "https://github.com/jakevdp/PythonDataScienceHandbook",
     "author": "Jake Vanderplas",
-    "stars": 49944,
+    "stars": 49962,
     "source": "Glittr.org"
   },
   {
@@ -1616,7 +1616,7 @@
     "url": "https://docs.python-guide.org",
     "repo_url": "https://github.com/realpython/python-guide",
     "author": "Real Python",
-    "stars": 29813,
+    "stars": 29816,
     "source": "Glittr.org"
   },
   {
@@ -1636,7 +1636,7 @@
     "url": "https://github.com/wesm/pydata-book",
     "repo_url": "https://github.com/wesm/pydata-book",
     "author": "Wes McKinney",
-    "stars": 24943,
+    "stars": 24945,
     "source": "Glittr.org"
   },
   {
@@ -1646,7 +1646,7 @@
     "url": "https://github.com/trekhleb/learn-python",
     "repo_url": "https://github.com/trekhleb/learn-python",
     "author": "Oleksii Trekhleb",
-    "stars": 18298,
+    "stars": 18302,
     "source": "Glittr.org"
   },
   {
@@ -1656,7 +1656,7 @@
     "url": "https://github.com/gregmalcolm/python_koans",
     "repo_url": "https://github.com/gregmalcolm/python_koans",
     "author": "Greg Malcolm",
-    "stars": 5116,
+    "stars": 5115,
     "source": "Glittr.org"
   },
   {
@@ -1826,7 +1826,7 @@
     "url": "https://rustlings.rust-lang.org",
     "repo_url": "https://github.com/rust-lang/rustlings",
     "author": "The Rust Programming Language",
-    "stars": 64173,
+    "stars": 64183,
     "source": "Glittr.org"
   },
   {
@@ -1836,7 +1836,7 @@
     "url": "https://google.github.io/comprehensive-rust/",
     "repo_url": "https://github.com/google/comprehensive-rust",
     "author": "Google",
-    "stars": 33365,
+    "stars": 33371,
     "source": "Glittr.org"
   },
   {
@@ -1936,7 +1936,7 @@
     "url": "https://datascienceatthecommandline.com",
     "repo_url": "https://github.com/jeroenjanssens/data-science-at-the-command-line",
     "author": "Jeroen Janssens",
-    "stars": 3973,
+    "stars": 3974,
     "source": "Glittr.org"
   },
   {
@@ -2076,7 +2076,7 @@
     "url": "https://github.com/udlbook/udlbook",
     "repo_url": "https://github.com/udlbook/udlbook",
     "author": "udlbook",
-    "stars": 9921,
+    "stars": 9922,
     "source": "Glittr.org"
   },
   {
@@ -2096,7 +2096,7 @@
     "url": "https://www.ebi.ac.uk/training/our-partnerships/biotrain",
     "repo_url": "https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes",
     "author": "BiotrAIn-community",
-    "stars": 18,
+    "stars": 19,
     "source": "Glittr.org"
   },
   {
@@ -2106,7 +2106,7 @@
     "url": "https://courses.datatalks.club/register/de-zoomcamp/",
     "repo_url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "author": "DataTalksClub",
-    "stars": 45675,
+    "stars": 45698,
     "source": "Glittr.org"
   },
   {
@@ -2116,7 +2116,7 @@
     "url": "https://github.com/GeostatsGuy/DataScienceInteractivePython",
     "repo_url": "https://github.com/GeostatsGuy/DataScienceInteractivePython",
     "author": "Michael Pyrcz",
-    "stars": 2586,
+    "stars": 2585,
     "source": "Glittr.org"
   },
   {
@@ -2186,7 +2186,7 @@
     "url": "https://mlabonne.github.io/blog/",
     "repo_url": "https://github.com/mlabonne/llm-course",
     "author": "Maxime Labonne",
-    "stars": 83045,
+    "stars": 83061,
     "source": "Glittr.org"
   },
   {
@@ -2256,7 +2256,7 @@
     "url": "https://mlcourse.ai",
     "repo_url": "https://github.com/Yorko/mlcourse.ai",
     "author": "Yury Kashnitsky",
-    "stars": 10718,
+    "stars": 10717,
     "source": "Glittr.org"
   },
   {
@@ -2276,7 +2276,7 @@
     "url": "https://github.com/girafe-ai/ml-course",
     "repo_url": "https://github.com/girafe-ai/ml-course",
     "author": "girafe.ai",
-    "stars": 3558,
+    "stars": 3562,
     "source": "Glittr.org"
   },
   {
@@ -2286,7 +2286,7 @@
     "url": "https://www.fast.ai/2019/07/08/fastai-nlp/",
     "repo_url": "https://github.com/fastai/course-nlp",
     "author": "fast.ai",
-    "stars": 3490,
+    "stars": 3489,
     "source": "Glittr.org"
   },
   {
@@ -2306,7 +2306,7 @@
     "url": "https://inria.github.io/scikit-learn-mooc",
     "repo_url": "https://github.com/INRIA/scikit-learn-mooc",
     "author": "Inria",
-    "stars": 1412,
+    "stars": 1413,
     "source": "Glittr.org"
   },
   {
@@ -2346,7 +2346,7 @@
     "url": "https://compneuro.neuromatch.io",
     "repo_url": "https://github.com/NeuromatchAcademy/course-content",
     "author": "Neuromatch Academy",
-    "stars": 3135,
+    "stars": 3136,
     "source": "Glittr.org"
   },
   {
