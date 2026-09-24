@@ -1,40 +1,40 @@
 {
-  "last_run": "2026-09-23T01:19:24.083695+00:00",
+  "last_run": "2026-09-24T01:14:00.287649+00:00",
   "sources": {
     "jobRxiv": {
       "status": "ok",
       "count": 25,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "Nature Careers": {
       "status": "ok",
       "count": 20,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "EURAXESS": {
       "status": "ok",
       "count": 10,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "SciLifeLab": {
       "status": "ok",
-      "count": 9,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "count": 10,
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "EuroScienceJobs": {
       "status": "ok",
       "count": 22,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "bioinformatics.org": {
       "status": "ok",
       "count": 15,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     },
     "Max Planck Society": {
       "status": "ok",
       "count": 2,
-      "last_success": "2026-09-23T01:19:24.083695+00:00"
+      "last_success": "2026-09-24T01:14:00.287649+00:00"
     }
   }
 }
