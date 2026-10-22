@@ -1,40 +1,41 @@
 {
-  "last_run": "2026-10-21T01:23:29.772148+00:00",
+  "last_run": "2026-10-22T01:21:00.114390+00:00",
   "sources": {
     "jobRxiv": {
       "status": "ok",
       "count": 25,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     },
     "Nature Careers": {
       "status": "ok",
       "count": 20,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     },
     "EURAXESS": {
-      "status": "ok",
+      "status": "fail",
       "count": 10,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-21T01:23:29.772148+00:00",
+      "error": "403 Client Error: Forbidden for url: https://euraxess.ec.europa.eu/jobs/search?keywords=bioinformatics"
     },
     "SciLifeLab": {
       "status": "ok",
       "count": 7,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     },
     "EuroScienceJobs": {
       "status": "ok",
       "count": 23,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     },
     "bioinformatics.org": {
       "status": "ok",
       "count": 15,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     },
     "Max Planck Society": {
       "status": "ok",
       "count": 3,
-      "last_success": "2026-10-21T01:23:29.772148+00:00"
+      "last_success": "2026-10-22T01:21:00.114390+00:00"
     }
   }
 }
