@@ -6,7 +6,7 @@
     "url": "https://www.youtube.com/playlist?list=PL4Q4HssKcxYvcixWS08UFaYIH7y4IAV0z",
     "repo_url": "https://github.com/lynnlangit/gcp-for-bioinformatics",
     "author": "Lynn Langit",
-    "stars": 297,
+    "stars": 298,
     "source": "Glittr.org"
   },
   {
@@ -536,7 +536,7 @@
     "url": "https://github.com/rrwick/Perfect-bacterial-genome-tutorial",
     "repo_url": "https://github.com/rrwick/Perfect-bacterial-genome-tutorial",
     "author": "Ryan Wick",
-    "stars": 158,
+    "stars": 157,
     "source": "Glittr.org"
   },
   {
@@ -816,7 +816,7 @@
     "url": "https://www.sc-best-practices.org",
     "repo_url": "https://github.com/theislab/single-cell-best-practices",
     "author": "Theis Lab",
-    "stars": 1297,
+    "stars": 1298,
     "source": "Glittr.org"
   },
   {
@@ -826,7 +826,7 @@
     "url": "https://hbctraining.github.io/Intro-to-scRNAseq/",
     "repo_url": "https://github.com/hbctraining/scRNA-seq_online",
     "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
-    "stars": 667,
+    "stars": 669,
     "source": "Glittr.org"
   },
   {
@@ -986,7 +986,7 @@
     "url": "https://hbctraining.github.io/Intro-to-bulk-RNAseq/",
     "repo_url": "https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped",
     "author": "Teaching materials at the Harvard Chan Bioinformatics Core",
-    "stars": 155,
+    "stars": 156,
     "source": "Glittr.org"
   },
   {
@@ -1046,7 +1046,7 @@
     "url": "https://github.com/MareesAT/GWA_tutorial",
     "repo_url": "https://github.com/MareesAT/GWA_tutorial",
     "author": "Andries Marees",
-    "stars": 1029,
+    "stars": 1030,
     "source": "Glittr.org"
   },
   {
@@ -1136,7 +1136,7 @@
     "url": "https://github.com/pachterlab/BI-BE-CS-183-2023",
     "repo_url": "https://github.com/pachterlab/BI-BE-CS-183-2023",
     "author": "Pachter Lab",
-    "stars": 553,
+    "stars": 554,
     "source": "Glittr.org"
   },
   {
@@ -1396,7 +1396,7 @@
     "url": "https://github.com/cxli233/FriendsDontLetFriends",
     "repo_url": "https://github.com/cxli233/FriendsDontLetFriends",
     "author": "C. Li",
-    "stars": 7195,
+    "stars": 7196,
     "source": "Glittr.org"
   },
   {
@@ -1476,7 +1476,7 @@
     "url": "http://makefiletutorial.com",
     "repo_url": "https://github.com/theicfire/makefiletutorial",
     "author": "Chase Lambert",
-    "stars": 6012,
+    "stars": 6011,
     "source": "Glittr.org"
   },
   {
@@ -1606,7 +1606,7 @@
     "url": "https://thealgorithms.github.io/Python/",
     "repo_url": "https://github.com/TheAlgorithms/Python",
     "author": "The Algorithms",
-    "stars": 225878,
+    "stars": 225907,
     "source": "Glittr.org"
   },
   {
@@ -1616,7 +1616,7 @@
     "url": "http://jakevdp.github.io/PythonDataScienceHandbook",
     "repo_url": "https://github.com/jakevdp/PythonDataScienceHandbook",
     "author": "Jake Vanderplas",
-    "stars": 50368,
+    "stars": 50378,
     "source": "Glittr.org"
   },
   {
@@ -1636,7 +1636,7 @@
     "url": "https://github.com/zhiwehu/Python-programming-exercises",
     "repo_url": "https://github.com/zhiwehu/Python-programming-exercises",
     "author": "Jeffrey Hu",
-    "stars": 29850,
+    "stars": 29858,
     "source": "Glittr.org"
   },
   {
@@ -1646,7 +1646,7 @@
     "url": "https://github.com/wesm/pydata-book",
     "repo_url": "https://github.com/wesm/pydata-book",
     "author": "Wes McKinney",
-    "stars": 25074,
+    "stars": 25078,
     "source": "Glittr.org"
   },
   {
@@ -1656,7 +1656,7 @@
     "url": "https://github.com/trekhleb/learn-python",
     "repo_url": "https://github.com/trekhleb/learn-python",
     "author": "Oleksii Trekhleb",
-    "stars": 18483,
+    "stars": 18488,
     "source": "Glittr.org"
   },
   {
@@ -1836,7 +1836,7 @@
     "url": "https://rustlings.rust-lang.org",
     "repo_url": "https://github.com/rust-lang/rustlings",
     "author": "The Rust Programming Language",
-    "stars": 64559,
+    "stars": 64570,
     "source": "Glittr.org"
   },
   {
@@ -2086,7 +2086,7 @@
     "url": "https://github.com/udlbook/udlbook",
     "repo_url": "https://github.com/udlbook/udlbook",
     "author": "udlbook",
-    "stars": 10132,
+    "stars": 10131,
     "source": "Glittr.org"
   },
   {
@@ -2116,7 +2116,7 @@
     "url": "https://courses.datatalks.club/register/de-zoomcamp/",
     "repo_url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "author": "DataTalksClub",
-    "stars": 46658,
+    "stars": 46678,
     "source": "Glittr.org"
   },
   {
@@ -2166,7 +2166,7 @@
     "url": "http://www.inferentialthinking.com",
     "repo_url": "https://github.com/data-8/textbook",
     "author": "UC Berkeley Data 8",
-    "stars": 928,
+    "stars": 929,
     "source": "Glittr.org"
   },
   {
@@ -2196,7 +2196,7 @@
     "url": "https://mlabonne.github.io/blog/",
     "repo_url": "https://github.com/mlabonne/llm-course",
     "author": "Maxime Labonne",
-    "stars": 84905,
+    "stars": 84922,
     "source": "Glittr.org"
   },
   {
@@ -2256,7 +2256,7 @@
     "url": "https://github.com/instillai/TensorFlow-Course",
     "repo_url": "https://github.com/instillai/TensorFlow-Course",
     "author": "Instill AI",
-    "stars": 16258,
+    "stars": 16256,
     "source": "Glittr.org"
   },
   {
@@ -2266,7 +2266,7 @@
     "url": "https://mlcourse.ai",
     "repo_url": "https://github.com/Yorko/mlcourse.ai",
     "author": "Yury Kashnitsky",
-    "stars": 10784,
+    "stars": 10790,
     "source": "Glittr.org"
   },
   {
@@ -2286,7 +2286,7 @@
     "url": "https://github.com/girafe-ai/ml-course",
     "repo_url": "https://github.com/girafe-ai/ml-course",
     "author": "girafe.ai",
-    "stars": 3591,
+    "stars": 3592,
     "source": "Glittr.org"
   },
   {
@@ -2336,7 +2336,7 @@
     "url": "https://allendowney.github.io/ThinkStats2/",
     "repo_url": "https://github.com/AllenDowney/ThinkStats2",
     "author": "Allen Downey",
-    "stars": 4241,
+    "stars": 4243,
     "source": "Glittr.org"
   },
   {
@@ -2346,7 +2346,7 @@
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "repo_url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "author": "Richard McElreath",
-    "stars": 4105,
+    "stars": 4106,
     "source": "Glittr.org"
   },
   {
@@ -2356,7 +2356,7 @@
     "url": "https://compneuro.neuromatch.io",
     "repo_url": "https://github.com/NeuromatchAcademy/course-content",
     "author": "Neuromatch Academy",
-    "stars": 3153,
+    "stars": 3154,
     "source": "Glittr.org"
   },
   {
